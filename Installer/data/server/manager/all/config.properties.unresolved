@@ -1,0 +1,6 @@
+#Server port on which equella manager runs
+server.port = ${service/port}
+
+#Time to wait for the server start up.
+#loading.timeout = 6000
+

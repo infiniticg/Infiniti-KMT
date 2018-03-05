@@ -1,0 +1,10 @@
+<export>
+	<mappings>
+		<map class="com.tle.conversion.exporters.DHFExport"/>
+	</mappings>
+	<synonyms>
+		<synonym for="html" is="htm"/>
+		<synonym for="jpeg" is="jpg,jpe"/>
+		<synonym for="tiff" is="tif"/>
+	</synonyms>
+</export>

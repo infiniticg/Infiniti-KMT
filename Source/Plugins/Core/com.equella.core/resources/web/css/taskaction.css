@@ -1,0 +1,33 @@
+.taskactiondialog .modal-content {
+    height: 400px;
+}
+
+.taskactiondialog .modal-content-inner {
+	min-height: 384px;
+}
+
+.taskactiondialog .comment-entry,
+.taskactiondialog .reject-steps,
+.taskactiondialog .newListSelected,
+.taskactiondialog .newList {
+	width: 100% !important;
+	box-sizing: border-box;
+}
+
+.errorMsg {
+    color: red;
+    text-align: center;
+    font-size: 15px;
+    height: 20px;
+    padding-top: 5px;
+}
+
+h3.noTopMargin
+{
+    margin-top: 0px;
+}
+
+.rejectTo
+{
+    margin-bottom: 20px;
+}

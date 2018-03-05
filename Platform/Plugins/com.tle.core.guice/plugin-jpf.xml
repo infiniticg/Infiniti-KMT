@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plugin PUBLIC "-//JPF//Java Plug-in Manifest 1.0" "http://jpf.sourceforge.net/plugin_1_0.dtd">
+<plugin id="com.tle.core.guice" version="1" class="com.tle.core.guice.GuicePlugin">
+  <requires>
+    <import plugin-id="com.tle.platform.common" />
+  </requires>
+  <runtime>
+    <library type="code" path="classes/" id="classes">
+      <export prefix="*" />
+    </library>
+  </runtime>
+  <extension-point id="module">
+    <parameter-def id="class" type="string" multiplicity="any" />
+  </extension-point>
+  <extension-point id="beanChecker">
+    <parameter-def id="class" type="string" />
+  </extension-point>
+</plugin>

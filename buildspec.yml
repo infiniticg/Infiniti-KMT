@@ -1,0 +1,23 @@
+version: 0.2
+
+env:
+  variables:
+    KALTURA_BRANCH: master
+phases:
+  pre_build:
+    commands:
+      - env
+      - setupBuild
+  build:
+    commands:
+      - sbt -Dconfig.file=${HOME}/build.conf -Dsbt.log.noformat=true test installerZip writeLanguagePack
+  post_build:
+    commands:
+      - publishBuild
+      - echo "Finished"
+cache:
+  paths:
+    - '/root/.ivy2/**/*'
+    - '/root/.npm/**/*'
+    - '/root/.sbt/**/*'
+    
