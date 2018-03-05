@@ -7,5 +7,11 @@ stages{
                 sh './dockerbuild.sh'
             }
         }
+        stage('Push to ECR'){
+            steps {
+                sh 'chmod +x dockerpush.sh'
+                sh './dockerpush.sh'
+            }
+        }
     }
 }
