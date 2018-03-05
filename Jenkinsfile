@@ -3,7 +3,8 @@ agent any
 stages{
         stage('Build'){
             steps {
-                sh 'echo done!'
+                sh 'chmod +x dockerbuild.sh'
+                sh './dockerbuild.sh'
             }
         }
     }
