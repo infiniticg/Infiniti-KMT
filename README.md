@@ -1,4 +1,6 @@
-# EQUELLA
+
+
+# Infiniti KMT
 
 [![Travis build](https://travis-ci.org/equella/Equella.svg?branch=master)](https://travis-ci.org/equella/Equella)
 
