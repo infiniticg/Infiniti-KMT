@@ -3,6 +3,8 @@
 # Infiniti KMT
 
 
+>>>>>>>>>>>>>>>>ORIGINAL FILE BELOW HERE
+
 If you would like to contribute to EQUELLA please setup a [development environment](Developers.md).
 
 # Building EQUELLA from source
