@@ -128,7 +128,7 @@ m)	Deployed the prototype on an Infrastructure as a Service (IaaS) or Platform a
 
 &nbsp;&nbsp;&nbsp;&nbsp;vi.	Resilience is provided by an auto-scaling group managed by ECS and a Multi-AZ DB Deployment that is also backed up regularly.
 
-Architectural diagrams for our AWS IaaS and PaaS environment are included in our application architecture document ????
+Architectural diagrams for our AWS IaaS and PaaS environment are included in our [application architecture document](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_Application_Architecture.pdf>)
 
 n)	Developed automated unit tests for their code;  Infiniti’s Developers used automated unit tests for the KMT code.  Our DevOps engineer then automated the running of the unit tests into the CI/CD pipeline.
 
@@ -142,7 +142,7 @@ o)	Setup or used a continuous integration system to automate the running of test
 
 &nbsp;&nbsp;&nbsp;&nbsp;iv.	This Docker image is pushed to AWS ECR (Container Registry) and later pushed to AWS ECS (Elastic Container Service) for Deployment
 
-Architectural diagrams for our CI/CD pipeline is included in our application architecture document <LINK>
+Architectural diagrams for our CI/CD pipeline is included in our [application architecture document](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_Application_Architecture.pdf>)
 
 p)	Setup or used configuration management; Infiniti’s DevOps engineer setup a GitHub for the Infiniti KMT prototype.  All source code and supporting artifacts are maintained under configuration management in GitHub.  
 
