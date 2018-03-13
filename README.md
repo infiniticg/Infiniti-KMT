@@ -2,9 +2,6 @@
 
 # Infiniti KMT
 
-[![Travis build](https://travis-ci.org/equella/Equella.svg?branch=master)](https://travis-ci.org/equella/Equella)
-
-More in-depth documentation can be found in [Docs](https://equella.github.io/) repo.
 
 If you would like to contribute to EQUELLA please setup a [development environment](Developers.md).
 
