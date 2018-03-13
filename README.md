@@ -53,7 +53,7 @@ d)	Used at least a minimum of three (3) “user-centric design” techniques and
 
  &nbsp;&nbsp;&nbsp;&nbsp;iii.	[Personas](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/KMT%20Personas.pdf>)
 
- &nbsp;&nbsp;&nbsp;&nbsp;iv.	  Usability Testing <LINK>
+ &nbsp;&nbsp;&nbsp;&nbsp;iv.	  [Usability Testing](<https://github.com/infiniticg/Infiniti-KMT/tree/master/Documentation/UsabilityTesting>)
 
 Our user centric design approach started with Research Interviews which were one-on-one sessions with users. These were a fundamental component of our use-centric design process. By engaging with former auditors, program specialists, and protest hearing specialist we conceived of and designed the KMT portal, focusing on the most important outcomes.
 
@@ -69,7 +69,7 @@ g)	Complied with Section 508 of the Americans with Disabilities Act and WCAG 2.0
 
 h)	Created or used a design style guide and/or a pattern library; We created and used a design style guide.  ?????
 
-i)	Performed usability tests ???? with people; Our focus was to identify 'real' users that we associated with our personas to make sure we could follow user stories to completion.  
+i)	Performed [usability tests](<https://github.com/infiniticg/Infiniti-KMT/tree/master/Documentation/UsabilityTesting>) with people; Our focus was to identify 'real' users that we associated with our personas to make sure we could follow user stories to completion.  
 
 j)	Used an iterative approach, where feedback informed subsequent work or versions of the prototype; Given the very short timeframe our approach was to quickly move through multiple, short sprints.  The first sprint was completed in eight days and provided a minimum viable product (MVP).  We then conducted two additional sprints to add the remaining functionality.
 
