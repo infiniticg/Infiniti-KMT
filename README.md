@@ -11,7 +11,8 @@ The project approach was driven by a compressed schedule with two distinct track
 
 Our Agile Coach worked with the Product Manager to layout an Agile based project using Jira to track Sprints, backlog, user stories, and tasks.  All documentation was tracked in Confluence. All code and supporting artifacts were stored in GitHub.  Our approach included daily meetings to collaborate.  We also estimated work by resource in a Workplan <LINK> so that we could gain commitment from the team members and communicate to their project managers to make sure they were available for the work.
   
-To help our team make sure we were meeting the RFI’s requirements for this project we created a [requirements traceability document](a.md).
+To help our team make sure we were meeting the RFI’s requirements for this project we created a [requirements traceability matrix](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Infiniti_Functional_and_Technical_Requirements.pdf>).
+
 
 >>>>>>>>>>>>>>>>ORIGINAL FILE BELOW HERE
 
