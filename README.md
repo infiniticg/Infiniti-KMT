@@ -46,7 +46,7 @@ Assembled a multidisciplinary and collaborative team that includes, at a minimum
 &nbsp;&nbsp;&nbsp;&nbsp;Interaction Designer/User Researcher/Usability Tester:	Brittney Scott
 
 ### Requirement c)  
-Understood what people needed, by including people in the prototype development and design process; Using the Digital Services Playbook - Play 1 ???? as a guide, we worked with available resources as 'real' users as we developed user personas, user stories and performed user testing.    Given the theoretical nature of the project we decided to come up with a more tangible scenario by using a Tax Department as our client for the KMT.   This allowed the team to perform research interviews with former Tax Department employees to develop realistic personas and user stories.  Having realistic personas and user stories allowed our people to get into character for design and testing.
+Understood what people needed, by including people in the prototype development and design process; Using the Digital Services Playbook - Play 1 as a guide, we worked with available resources as 'real' users as we developed user personas, user stories and performed user testing.    Given the theoretical nature of the project we decided to come up with a more tangible scenario by using a Tax Department as our client for the KMT.   This allowed the team to perform research interviews with former Tax Department employees to develop realistic personas and user stories.  Having realistic personas and user stories allowed our people to get into character for design and testing.
 
 ### Requirement d)  
 Used at least a minimum of three (3) “user-centric design” techniques and/or tools: We used several (more than three use techniques) user centric design techniques:
@@ -69,7 +69,7 @@ Our team then worked with our people to develop [personas and user stories](<htt
 Used GitHub to document code commits;  Infiniti’s developers and DevOps engineer used GitHub throughout the project for code commits.
  
 ### Requirement f)  
-Used Swagger to document the RESTful API, and provided a link to the Swagger API;????
+Used Swagger to document the RESTful API, and provided a [link to the Swagger API](<http://kmt.infiniticloud.com/infiniti/apidocs.do>)
 
 ### Requirement g)  
 Complied with Section 508 of the Americans with Disabilities Act and WCAG 2.0; We completed overall accessible testing to meet Section 508 of the Americans with Disabilities Act and WCAG 2.0.  We made corrections as necessary to be section 508 compliant as shown in [this document](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_KMT_ADA_testing.pdf>)
