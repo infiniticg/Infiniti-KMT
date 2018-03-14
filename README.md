@@ -2,6 +2,8 @@
 
 # Infiniti KMT
 
+To see screen shots and instructions for running the Infiniti KMT see [this document](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_KMT_Screen_Shots.pdf>)
+
 ## INFINITI’S PROJECT APPROACH
 The project approach was driven by a compressed schedule with two distinct tracks of requirements
 
