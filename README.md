@@ -17,7 +17,7 @@ To help our team make sure we were meeting the RFI’s requirements for this pro
 Infiniti’s technical approach is document in accordance with the instructions in the RFI.
 We created a separate application document <LINK> which shows code flow from client UI, to JavaScript library, to REST service to database, pointing to code in the GitHub repository.
 
-We also created a complete Machine Learning model using ????? 
+We also created a complete Machine Learning model and integrated this into our KMT prototype as described in [this document](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_Machine_Learning_Predictive_Analytics.pdf>)
 
 We also modified a copy [US Digital Services Playbook](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_US%20Digital%20Services%20Playbook%20with%20Infiniti%20updates.pdf>) to show how we followed the playbook.
 
@@ -72,10 +72,10 @@ Used GitHub to document code commits;  Infiniti’s developers and DevOps engine
 Used Swagger to document the RESTful API, and provided a link to the Swagger API;????
 
 ### Requirement g)  
-Complied with Section 508 of the Americans with Disabilities Act and WCAG 2.0; We completed overall accessible testing to meet Section 508 of the Americans with Disabilities Act and WCAG 2.0.  We made corrections as necessary to be section 508 compliant. ?????
+Complied with Section 508 of the Americans with Disabilities Act and WCAG 2.0; We completed overall accessible testing to meet Section 508 of the Americans with Disabilities Act and WCAG 2.0.  We made corrections as necessary to be section 508 compliant as shown in [this document](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_KMT_ADA_testing.pdf>)
 
 ### Requirement h)  
-Created or used a design style guide and/or a pattern library; We created and used a design style guide.  ?????
+Created or used a design style guide and/or a pattern library; We created and used a [design style guide](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_KMT_Style_Guide.pdf>)
 
 ### Requirement i)  
 Performed [usability tests](<https://github.com/infiniticg/Infiniti-KMT/tree/master/Documentation/UsabilityTesting>) with people; Our focus was to identify 'real' users that we associated with our personas to make sure we could follow user stories to completion.  
@@ -102,7 +102,7 @@ The iterative development approach was part of our Agile methodology guided by o
 The evidence of our team's Agile process is documented within GitHub and includes [screen shots of Jira](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_KMT_Agile_Process.pdf>) as well as other more traditional documentation.
 
 ### Requirement k)  
-Created a prototype that works on multiple devices, and presents a responsive design;??????????
+Created a prototype that works on multiple devices, and presents a responsive design; we tested our prototype on tablets.
  
 ### Requirement l )  
 Used at least five (5) modern and open-source technologies, regardless of architectural layer (frontend, backend, etc.);  By using the Infiniti team’s extensive experience with open-source tools, and in alignment with the Digital Services Playbook goal was to "default to open (play 13)", we were able to integrate many open-source tools into our prototype, including:
@@ -168,7 +168,7 @@ Setup or used continuous monitoring; To provide sophisticated continuous monitor
 Deployed their software in an open source container, such as Docker (i.e., utilized operating-system-level virtualization); Infiniti’s DevOps engineer containerized the Infiniti KMT prototype into Docker.  This Docker container is built by the Jenkins build as part of the CI/CD pipeline.
 
 ### Requirement s)  
-Provided sufficient documentation to install and run their prototype on another machine; Infiniti’s DevOps engineer documented the install and run procedures into Install Instructions ?????
+Provided sufficient documentation to install and run their prototype on another machine; Infiniti’s DevOps engineer documented the install and run procedures into [Install Instructions](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_KMT_Prototype_Installation.pdf>)
 
 ### Requirement t)  
 Prototype and underlying platforms used to create and run the prototype are openly licensed and free of charge.  Infiniti’s team used all open source technologies to build the Infiniti KMT prototype and have deployed to an AWS environment that is free of charge.
