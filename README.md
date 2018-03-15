@@ -77,7 +77,7 @@ Used Swagger to document the RESTful API, and provided a [link to the Swagger AP
 Complied with Section 508 of the Americans with Disabilities Act and WCAG 2.0; We completed overall accessible testing to meet Section 508 of the Americans with Disabilities Act and WCAG 2.0.  We made corrections as necessary to be section 508 compliant as shown in [this document](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_KMT_ADA_testing.pdf>)
 
 ### Requirement h)  
-Created or used a design style guide and/or a pattern library; We created and used a [design style guide](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_KMT_Style_Guide.pdf>)
+Created or used a design style guide and/or a pattern library; We created and used a [design style guide](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti%20KMT%20Style%20Guide.pdf>)
 
 ### Requirement i)  
 Performed [usability tests](<https://github.com/infiniticg/Infiniti-KMT/tree/master/Documentation/UsabilityTesting>) with people; Our focus was to identify 'real' users that we associated with our personas to make sure we could follow user stories to completion.  
