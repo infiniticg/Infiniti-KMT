@@ -17,9 +17,9 @@ To help our team make sure we were meeting the RFI’s requirements for this pro
 
 ## INFINITI’S TECHNICAL APPROACH 
 Infiniti’s technical approach is document in accordance with the instructions in the RFI.
-We created a separate application document <LINK> which shows code flow from client UI, to JavaScript library, to REST service to database, pointing to code in the GitHub repository.
+We created a separate [application architecture document](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_Application_Architecture.pdf>) which shows code flow from client UI, to JavaScript library, to REST service to database, pointing to code in the GitHub repository.
 
-We also created a complete Machine Learning model and integrated this into our KMT prototype as described in [this document](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_Machine_Learning_Predictive_Analytics.pdf>)
+To meet the Knowledge Development requirements we also created a complete Machine Learning model and integrated this into our KMT prototype as described in [this document](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_Machine_Learning_Predictive_Analytics.pdf>)
 
 We also modified a copy [US Digital Services Playbook](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_US%20Digital%20Services%20Playbook%20with%20Infiniti%20updates.pdf>) to show how we followed the playbook.
 
