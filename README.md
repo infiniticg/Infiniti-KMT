@@ -170,7 +170,7 @@ Setup or used continuous monitoring; To provide sophisticated continuous monitor
 Deployed their software in an open source container, such as Docker (i.e., utilized operating-system-level virtualization); Infiniti’s DevOps engineer containerized the Infiniti KMT prototype into Docker.  This Docker container is built by the Jenkins build as part of the CI/CD pipeline.
 
 ### Requirement s)  
-Provided sufficient documentation to install and run their prototype on another machine; Infiniti’s DevOps engineer documented the install and run procedures into [Install Instructions](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_KMT_Prototype_Installation.pdf>)
+Provided sufficient documentation to install and run their prototype on another machine; Infiniti’s DevOps engineer documented the install and run procedures into [Install Instructions](<https://github.com/infiniticg/Infiniti-KMT/blob/master/Documentation/Infiniti_KMT_Prototype_Run_And_Installation_Instructions.pdf>)
 
 ### Requirement t)  
 Prototype and underlying platforms used to create and run the prototype are openly licensed and free of charge.  Infiniti’s team used all open source technologies to build the Infiniti KMT prototype and have deployed to an AWS environment that is free of charge.
